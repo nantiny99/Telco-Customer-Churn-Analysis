@@ -30,12 +30,6 @@ This project analyzes Telco customer churn data to identify key factors influenc
 
 ---
 
-## Dashboard Preview
-![Tableau Dashboard](dashboard_preview.png)  
-*(If hosted online, link to Tableau Public here)*
-
----
-
 ## How to Use
 1. Open `telco.db` or `telco_clean.csv` for the dataset.
 2. Run `sql_queries.py` to perform SQL-based data exploration.
