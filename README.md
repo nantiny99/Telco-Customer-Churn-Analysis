@@ -24,9 +24,12 @@ This project analyzes Telco customer churn data to identify key factors influenc
 ---
 
 ## Key Insights
-- Identified customer segments with high churn risk based on contract type, payment method, and tenure.
-- Built a churn prediction model with [insert accuracy %, e.g. **85% accuracy**] to assist retention strategies.
-- Created an interactive Tableau dashboard for quick, data-driven decision-making.
+- Cleaned and transformed customer churn dataset using Python (pandas, numpy).
+- Queried and explored data using SQL (SQLite) within Python for deeper analysis.
+- Built predictive churn model using scikit-learn, achieving 74.13% accuracy and 79.41% recall, enabling identification of most high-risk customers. (F1 score: 62%, Precision: 50.86%)
+- Designed an interactive Tableau dashboard to visualize churn patterns and key insights.
+- Delivered actionable findings on customer demographics, contract types, and risk factors influencing churn
+
 
 
 ---
